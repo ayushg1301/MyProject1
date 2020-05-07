@@ -3,7 +3,10 @@ Cricket
 Football
 Badminton
 
-
+Chess
+Carrom Board
+Basket Ball
+Ludo
 
 compeleted:
 
